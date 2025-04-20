@@ -56,9 +56,25 @@ Proficient in the following languages and technologies:
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=dark" />
-</p> -->
+</p> 
 
----
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Mr-Spectr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/Mr-Spectr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" />
+</a>
+
+</div>
+-->
+
+
 
 ## 📂 Highlight Projects
 
