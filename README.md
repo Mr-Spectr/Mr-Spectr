@@ -1,45 +1,87 @@
-## Hi there 👋
-
-# 👨‍💻 Abhay's Project Repository
-
-Welcome to my GitHub! I'm Abhay, a dual-degree student in **Computer Science Engineering (B.Tech)** and **Data Science (BE, IITM)**. I’m passionate about building innovative tech solutions, exploring AI/ML, and diving deep into the world of Generative AI, DevOps, and Cloud Computing.
+<h1 align="center">Hi, I’m Abhay! 🚀</h1>
+<h3 align="center">B.Tech in CSE | BE in Data Science @ IITM | Tech Enthusiast | Polymath</h3>
+<p align="center">Exploring AI, Space, and Defense — building the future with code 🚀</p>
 
 ---
 
-## 🚀 About Me
+## 🌟 Tech Enthusiast
 
-- 🧠 Polymath with a curious mind and a strong interest in **AI, space, defense, and geopolitics**.
-- 🏫 Former School Captain at Army Public School, PRTC Bangalore.
-- 🧰 Skilled in Python, MySQL, and currently exploring full-stack web development.
-- 🤝 Hackathon Enthusiast: Developed a **Virtual Carpooling Network** for road safety and worked on **KYC verification via blockchain** and **dynamic route optimization for logistics**.
-
----
-
-## 🔧 Technologies & Tools
-
-- Languages: `Python`, `HTML`, `CSS`, `JavaScript`
-- Tools: `Git`, `VS Code`, `MySQL`, `Markdown`
-- Interests: `Data Science`, `Machine Learning`, `Generative AI`, `Cloud`, `DevOps`, `Blockchain`
+- 🎓 Dual Degree Student in **Computer Science Engineering** and **Data Science**
+- 💡 Interested in **AI, ML, Generative AI, Cloud, DevOps, Defense Systems**
+- 🚀 Hackathon Junkie: **Virtual Carpooling**, **KYC via Blockchain**, **Route Optimization**
+- 🧠 Always learning. Always building.
 
 ---
 
-## 📂 Projects Highlight
+## 🧰 Programming Toolkit
+
+Proficient in the following languages and technologies:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 💻 Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Unix-003B57?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<!-- ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=dark" />
+</p> -->
+
+---
+
+## 📂 Highlight Projects
 
 | Project | Description |
 |--------|-------------|
-| 🚗 **Virtual Carpooling Network** | Designed a carpooling system for reducing traffic congestion and enhancing road safety. |
-| 📦 **Route Optimization System** | Algorithm for delivery companies to dynamically optimize delivery routes. |
-| 🛡️ **KYC on Blockchain** | Smart hash-based data verification system for banks to auto-fetch customer data securely. |
+| 🚗 **Virtual Carpooling Network** | Optimizes routes and reduces urban congestion |
+| 📦 **Dynamic Route Planner** | Built for logistics and delivery optimization |
+| 🔐 **KYC on Blockchain** | Secure identity verification via smart hashing |
 
 ---
 
-## 📫 Connect with Me
+## 📫 How to Reach Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- 📬 Email: your.email@example.com
+<p align="center">
+  <a href="abhayrawat306@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhay-rawat-790b24288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-> *“The best way to predict the future is to invent it.” – Alan Kay*
+<p align="center"><em>“The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt</em></p>
 
-Feel free to explore, fork, and contribute 🚀
+
+
+
+
