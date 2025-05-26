@@ -50,30 +50,21 @@ Proficient in the following languages and technologies:
 
 ---
 
- ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=dark" />
-</p> 
-
 
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<a href="https://github.com/Mr-Spectr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/Mr-Spectr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Spectr&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Mr-Spectr&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Spectr&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=non-python-repo" alt="Top Languages" />
+</p>
 
-</div>
-<!--
--->
+<p align="center"><i>Mostly building in Python — scripts, automation, APIs, and more!</i></p>
+
 
 
 
