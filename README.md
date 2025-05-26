@@ -70,11 +70,16 @@ Proficient in the following languages and technologies:
 
 ## 📂 Highlight Projects
 
+
 | Project | Description |
 |--------|-------------|
-| 🚗 **Virtual Carpooling Network** | Optimizes routes and reduces urban congestion |
-| 📦 **Dynamic Route Planner** | Built for logistics and delivery optimization |
-| 🔐 **KYC on Blockchain** | Secure identity verification via smart hashing |
+| 🚗 **Virtual Carpooling Network** | Optimizes routes and reduces urban congestion using dynamic ride matching algorithms |
+| 📦 **Dynamic Route Planner** | Python-based system for real-time delivery optimization and route prediction |
+| 🔐 **KYC on Blockchain** | Secure identity verification using smart hashing and decentralized ledger tech |
+| 🧠 **MACRA** | AI-powered system for Medical Abbreviation Contextual Resolution & Analysis using NLP |
+| 📊 **GitHub Profile Analyzer** | Python tool that visualizes and summarizes GitHub user activity (stats, languages, commits) |
+| 🌐 **Multi-Region E-commerce Platform Upgrade** | Refactored platform for internationalization — currency, timezone, and language support |
+| 🧪 **Test Automation Framework** | Built in Python for automating functional tests across web applications using Selenium & PyTest |
 
 ---
 
