@@ -1,99 +1,178 @@
-<h1 align="center">Hi, I’m Abhay! 🚀</h1>
-<h3 align="center">B.Tech in CSE | BE in Data Science @ IITM | Tech Enthusiast | Polymath</h3>
-<p align="center">Exploring AI, Space, and Defense — building the future with code 🚀</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Abhay%20Rawat&fontAlign=50&fontSize=60&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
----
-
-## 🌟 Tech Enthusiast
-
-- 🎓 Dual Degree Student in **Computer Science Engineering** and **Data Science**
-- 💡 Interested in **AI, ML, Generative AI, Cloud, DevOps, Defense Systems**
-- 🚀 Hackathon Junkie: **Virtual Carpooling**, **KYC via Blockchain**, **Route Optimization**
-- 🧠 Always learning. Always building.
-
----
-
-## 🧰 Programming Toolkit
-
-Proficient in the following languages and technologies:
+<h3 align="center">
+🤖 Agentic AI • 📊 Data Science • ☁️ Cloud Engineering
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+🎓 B.Tech (Information Science) @ NMIT Bengaluru <br>
+🎓 BS Data Science & Applications @ IIT Madras
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Agentic+AI+Developer;Machine+Learning+Explorer;Cloud+Engineering+Enthusiast;LeetCode+Problem+Solver;Building+the+Future+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mr-Spectr&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 Operating Systems
+# 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### 👨‍💻 Who Am I?
+
+- 🎓 NMIT Bengaluru + IIT Madras
+- 🤖 Building AI Agents & LLM Applications
+- 📊 Machine Learning Enthusiast
+- ☁️ Exploring AWS & Google Cloud
+- 💻 Active DSA & LeetCode Learner
+- 🚀 Passionate about AI, Space & Technology
+
+<br clear="right"/>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Unix-003B57?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-017A5B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,bash" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ---
 
-## 🧪 Development Tools
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-Spectr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Spectr&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Spectr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+# 🚀 Featured Projects
 
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Spectr&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Mr-Spectr&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Spectr&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=non-python-repo" alt="Top Languages" />
-</p>
-
-<p align="center"><i>Mostly building in Python — scripts, automation, APIs, and more!</i></p>
-
-
-
-
-## 📂 Highlight Projects
-
-
-| Project | Description |
-|--------|-------------|
-| 🚗 **Virtual Carpooling Network** | Optimizes routes and reduces urban congestion using dynamic ride matching algorithms |
-| 📦 **Dynamic Route Planner** | Python-based system for real-time delivery optimization and route prediction |
-| 🔐 **KYC on Blockchain** | Secure identity verification using smart hashing and decentralized ledger tech |
-| 🧠 **MACRA** | AI-powered system for Medical Abbreviation Contextual Resolution & Analysis using NLP |
-| 📊 **GitHub Profile Analyzer** | Python tool that visualizes and summarizes GitHub user activity (stats, languages, commits) |
-| 🌐 **Multi-Region E-commerce Platform Upgrade** | Refactored platform for internationalization — currency, timezone, and language support |
-| 🧪 **Test Automation Framework** | Built in Python for automating functional tests across web applications using Selenium & PyTest |
+| Project | Tech | Description |
+|----------|----------|----------|
+| 🤖 Enterprise Knowledge Agent | Agentic AI, RAG, LLMs | Enterprise search and knowledge retrieval platform |
+| 📊 MACRA | Python, Analytics | Stock analysis and recommendation system |
+| 🚗 Virtual Carpooling | Python, Optimization | Dynamic ride-sharing and route optimization |
+| 🔐 Blockchain KYC | Blockchain | Decentralized identity verification |
+| 📈 GitHub Profile Analyzer | Python | GitHub analytics and visualization |
+| 🌐 E-Commerce Upgrade | Software Engineering | Multi-region international platform |
+| 🧪 Test Automation Framework | Selenium, PyTest | Automated web testing solution |
 
 ---
 
-## 📫 How to Reach Me
+# 🏆 Certifications & Achievements
 
 <p align="center">
-  <a href="abhayrawat306@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhay-rawat-790b24288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+☁️ Google Cloud Computing Foundations
+
+☁️ Google Cloud Engineering Certificate
+
+🧠 Algorithmic Thinking (Rice University)
+
+📊 IIT Madras BS Degree in Data Science
+
+🚀 NMIT Hacks Participant
+
+💻 Active LeetCode Problem Solver
+
 </p>
 
 ---
 
-<p align="center"><em>“The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt</em></p>
+# 🎯 Current Focus
+
+```text
+🤖 Agentic AI
+🧠 Generative AI
+📊 Machine Learning
+☁️ Cloud Engineering
+⚙️ Automation with n8n
+💻 Data Structures & Algorithms
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:abhayrawat306@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-rawat-790b24288/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- Enable later after setting up GitHub Action -->
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mr-Spectr/Mr-Spectr/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<h3 align="center">
+🚀 Building Today For Tomorrow
+</h3>
