@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-🤖 Agentic AI • 📊 Data Science • ☁️ Cloud Engineering
+💻 Software Engineer • 📊 Data Science • 🤖 Agentic AI • ☁️ Cloud Engineering
 </h3>
 
 <p align="center">
@@ -12,13 +12,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Agentic+AI+Developer;Machine+Learning+Explorer;Cloud+Engineering+Enthusiast;LeetCode+Problem+Solver;Building+the+Future+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer;Software+Developer;Data+Science+Student;Machine+Learning+Explorer;Agentic+AI+Developer;Cloud+Engineering+Enthusiast;LeetCode+Problem+Solver;Building+the+Future+🚀"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mr-Spectr&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
-
 ---
 
 # 🚀 About Me
@@ -61,6 +60,14 @@
 <img src="https://img.shields.io/badge/LightGBM-017A5B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
+
 
 </p>
 
@@ -93,6 +100,32 @@
 </p>
 
 ---
+
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Spectr&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Spectr&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Spectr&theme=tokyonight"/>
+
+</p>
+
+
+
+
+
+
+
+
 
 # 🚀 Featured Projects
 
