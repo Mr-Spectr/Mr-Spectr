@@ -207,6 +207,8 @@ Mobile game developed using Flutter and Dart for Android devices.
 
 ☁️ Google Cloud Engineering Certificate
 
+☁️ AWS Cloud Computing and Architecture Engineer Foundations
+
 🧠 Algorithmic Thinking (Rice University)
 
 📊 IIT Madras BS Degree in Data Science
