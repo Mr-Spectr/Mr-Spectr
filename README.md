@@ -238,12 +238,24 @@ Mobile game developed using Flutter and Dart for Android devices.
 
 <p align="center">
 
-<a href="mailto:abhayrawat306@gmail.com">
+<a href="mailto:workwithabhay3006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhay-rawat-790b24288/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/abhay-rawat.d65578c3/badges/credly">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/08f5ad17-6599-4ca1-8942-eaf7a7f974c8">
+<img src="https://img.shields.io/badge/Google%20SkillBoost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mr-Spectr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
