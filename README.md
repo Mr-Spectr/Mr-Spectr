@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mr-Spectr&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
----
+
 
 # 🚀 About Me
 
