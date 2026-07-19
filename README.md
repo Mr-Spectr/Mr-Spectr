@@ -129,15 +129,73 @@
 
 # 🚀 Featured Projects
 
-| Project | Tech | Description |
-|----------|----------|----------|
-| 🤖 Enterprise Knowledge Agent | Agentic AI, RAG, LLMs | Enterprise search and knowledge retrieval platform |
-| 📊 MACRA | Python, Analytics | Stock analysis and recommendation system |
-| 🚗 Virtual Carpooling | Python, Optimization | Dynamic ride-sharing and route optimization |
-| 🔐 Blockchain KYC | Blockchain | Decentralized identity verification |
-| 📈 GitHub Profile Analyzer | Python | GitHub analytics and visualization |
-| 🌐 E-Commerce Upgrade | Software Engineering | Multi-region international platform |
-| 🧪 Test Automation Framework | Selenium, PyTest | Automated web testing solution |
+
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Enterprise Knowledge Agent
+
+<img src="https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-green?style=for-the-badge"/>
+
+AI-powered enterprise knowledge retrieval and search platform using intelligent agents and modern AI workflows.
+
+🔗 Repository:
+[Enterprise Knowledge Agent](https://github.com/Mr-Spectr/Enterprise-Knowledge-Agent-AgenticAI-)
+
+</td>
+
+<td width="50%">
+
+### 📊 MACRA
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-orange?style=for-the-badge"/>
+
+Market Credibility Risk Analysis platform for evaluating financial and market indicators.
+
+🔗 Repository:
+[MACRA](https://github.com/Mr-Spectr/MACRA)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 FlutChat
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+Flutter-based Android chat application with Firebase backend integration.
+
+🔗 Repository:
+[FlutChat](https://github.com/Mr-Spectr/FlutChat)
+
+</td>
+
+<td width="50%">
+
+### 🎮 GameMania
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
+
+Mobile game developed using Flutter and Dart for Android devices.
+
+🔗 Repository:
+[GameMania](https://github.com/Mr-Spectr/GameMania)
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
