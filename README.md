@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer;Software+Developer;Data+Science+Student;Machine+Learning+Explorer;Agentic+AI+Developer;Cloud+Engineering+Enthusiast;LeetCode+Problem+Solver;Building+the+Future+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer;Software+Developer;Data+Science+Student;Machine+Learning+Explorer;Agentic+AI+Developer;Cloud+Computing+Engineering;Building+the+Future+🚀"/>
 </p>
 
 <p align="center">
